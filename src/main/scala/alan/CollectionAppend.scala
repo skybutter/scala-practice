@@ -6,7 +6,7 @@ package alan
  * Also see this
  * https://alvinalexander.com/scala/scala-list-class-examples/
  */
-object UsingCollection extends App {
+object CollectionAppend extends App {
 
   // Initialize List
   val list21 = List(1,2,3)
